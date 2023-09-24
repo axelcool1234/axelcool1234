@@ -1,4 +1,13 @@
-### Hi there 👋
+### HELLO HUMANS!
+- I am currently studying to be a full-time software engineer at University of California, Irvine. It's nice to meet you!
+
+### My Projects:
+- [axelcool1234/inscryption-card-printer](https://github.com/axelcool1234/inscryption-card-printer) - Web app for dynamically generating card designs
+
+### Contact:
+The best way to contact me professionally is through my professional email. If you want to contact me casually, it might be best to talk to me on Discord. I'd love to talk to you!
+- [Professional Email](mailto:AxelPSorenson@gmail.com)
+- Discord - Axelsoft
 
 <!--
 **axelcool1234/axelcool1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
