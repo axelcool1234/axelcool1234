@@ -7,6 +7,7 @@
 ### Contact:
 The best way to contact me professionally is through my professional email. If you want to contact me casually, it might be best to talk to me on Discord. I'd love to talk to you!
 - [Professional Email](mailto:AxelPSorenson@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/axel-sorenson)
 - Discord - Axelsoft
 
 <!--
