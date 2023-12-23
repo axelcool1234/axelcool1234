@@ -15,13 +15,14 @@ The best way to contact me professionally is through my professional email. If y
 - Discord - Axelsoft
 
 ### I'm currently working on:
-- Preparing for my sophomore year of UCI's computer science program.
-  - **Data Structure Implementation and Analysis**: Focuses on implementation and mathematical analysis of fundamental data structures and algorithms. Covers storage allocation and memory management techniques.
-  - **Introductory Computer Organization**: Multilevel view, design, and operation of computer system components. Machine-level data and instruction representation. Instruction sets and addressing modes. Memory organization. Laboratory work using low-level programming languages.
-  - **Information Retrieval**: An introduction to information retrieval including indexing, retrieval, classifying, and clustering text and multimedia documents.
+- Continuing my sophomore year of UCI's computer science program.
+  - **Design and Analysis of Algorithms**: Techniques for efficient algorithm design, including divide-and-conquer and dynamic programming, and time/space analysis. Fast algorithms for problems applicable to networks, computer games, and scientific computing, such as sorting, shortest paths, minimum spanning trees, network flow, and pattern matching.
+  - **Concepts in Programming Languages**: In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
+  - **Principles in System Design**: Introduces basic principles of system software: operating systems, compilers, and networking. Exposure to the following topics through theoretical and practical programming experiences: linking and loading, process and memory management, concurrency and synchronization, network communication, programming for performance, etc.
+- Programming and experimenting with my custom keyboard I built myself (Piantor). I'm updating its firmware to add additional features to fit my needs, along with practicing typing with it as I've never worked with a columnar staggered split keyboard before.
+- Switching from the QWERTY keyboard layout to [Semimak](https://github.com/semilin/semimak). Practicing typing with the new layout to build new muscle memory for it.
 - Searching for an internship for next summer. Looking at the bigger picture, I am admittedly applying for internships really early on into my college program but that won't dissuade me!
-- Self teaching myself data structures and algorithms ahead of my class (it fascinates me anyways).
-- Grading and providing feedback for [Professor Thornton's](https://www.linkedin.com/in/alex-thornton-1659603) accelerated Python Programming and Libraries course.
+- As a grader, I also grade and provide feedback for [Professor Thornton's](https://www.linkedin.com/in/alex-thornton-1659603) computer science courses.
 
 <!--
 **axelcool1234/axelcool1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
