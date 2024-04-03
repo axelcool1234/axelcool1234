@@ -2,7 +2,7 @@
 - I am currently studying to be a full-time software engineer at University of California, Irvine. It's nice to meet you!
 - I have had a passion for computer science since I started middle school. Ever since then my interest and passion has continued to grow.
 - I especially have a strong interest in programming paradigms and what it means to produce *good* code. Efficient program design is enticing to me.
-- I am currently actively searching for a summer 2024 internship.
+- I am actively searching for a summer 2024 internship.
 
 ### My Projects:
 - [axelcool1234/inscryption-card-printer](https://github.com/axelcool1234/inscryption-card-printer) - Web app for dynamically generating card designs
@@ -16,12 +16,10 @@ The best way to contact me professionally is through my professional email. If y
 
 ### I'm currently working on:
 - Continuing my sophomore year of UCI's computer science program.
-  - **Design and Analysis of Algorithms**: Techniques for efficient algorithm design, including divide-and-conquer and dynamic programming, and time/space analysis. Fast algorithms for problems applicable to networks, computer games, and scientific computing, such as sorting, shortest paths, minimum spanning trees, network flow, and pattern matching.
-  - **Concepts in Programming Languages**: In-depth study of several contemporary programming languages stressing variety in data structures, operations, notation, and control. Examination of different programming paradigms, such as logic programming, functional programming and object-oriented programming; implementation strategies, programming environments, and programming style.
-  - **Principles in System Design**: Introduces basic principles of system software: operating systems, compilers, and networking. Exposure to the following topics through theoretical and practical programming experiences: linking and loading, process and memory management, concurrency and synchronization, network communication, programming for performance, etc.
-- Programming and experimenting with my custom keyboard I built myself (Piantor). I'm updating its firmware to add additional features to fit my needs, along with practicing typing with it as I've never worked with a columnar staggered split keyboard before.
-- Switching from the QWERTY keyboard layout to [Semimak](https://github.com/semilin/semimak). Practicing typing with the new layout to build new muscle memory for it.
-- Searching for an internship for next summer. Looking at the bigger picture, I am admittedly applying for internships really early on into my college program but that won't dissuade me!
+    - **Formal Languages and Automata.**: Formal aspects of describing and recognizing languages by grammars and automata. Parsing regular and context-free languages. Ambiguity, nondeterminism. Elements of computability; Turning machines, random access machines, undecidable problems, NP-completeness.
+    - **Language Processor Construction.**: Project course which provides working laboratory experience in construction and behavior of compilers and interpreters. Building actual language processors and performing experiments which reveal their behaviors.
+    - **Beyond SQL Data Management.**: Survey of modern data management and analysis technologies beyond relational (SQL) database management. Topics include semistructured data, NoSQL databases, big data analysis, and text search/query engines. Additional topics vary and may include data frames, streaming data, and/or time-series data.
+- Searching for an internship for next summer.
 - As a grader, I also grade and provide feedback for [Professor Thornton's](https://www.linkedin.com/in/alex-thornton-1659603) computer science courses.
 
 <!--
