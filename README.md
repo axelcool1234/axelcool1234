@@ -1,8 +1,8 @@
 ## HELLO HUMANS!
 - I am currently studying to be a full-time software engineer at University of California, Irvine. It's nice to meet you!
 - I have had a passion for computer science since I started middle school. Ever since then my interest and passion has continued to grow.
-- I especially have a strong interest in programming paradigms and what it means to produce *good* code. Efficient program design is enticing to me.
-- I am actively searching for a summer 2024 internship.
+- I have a strong interest in programming language theory and compilers.
+- I am actively searching for a summer 2025 internship.
 
 ### My Projects:
 - [axelcool1234/inscryption-card-printer](https://github.com/axelcool1234/inscryption-card-printer) - Web app for dynamically generating card designs
@@ -15,11 +15,9 @@ The best way to contact me professionally is through my professional email. If y
 - Discord - Axelsoft
 
 ### I'm currently working on:
-- Continuing my sophomore year of UCI's computer science program.
-    - **Formal Languages and Automata.**: Formal aspects of describing and recognizing languages by grammars and automata. Parsing regular and context-free languages. Ambiguity, nondeterminism. Elements of computability; Turning machines, random access machines, undecidable problems, NP-completeness.
-    - **Language Processor Construction.**: Project course which provides working laboratory experience in construction and behavior of compilers and interpreters. Building actual language processors and performing experiments which reveal their behaviors.
-    - **Beyond SQL Data Management.**: Survey of modern data management and analysis technologies beyond relational (SQL) database management. Topics include semistructured data, NoSQL databases, big data analysis, and text search/query engines. Additional topics vary and may include data frames, streaming data, and/or time-series data.
-- Searching for an internship for next summer.
+- Continuing my junior year of UCI's computer science program.
+    - **Type Theory and Programming Languages**: Exploring various type systems, their properties, and their implementation in programming languages. Emphasis will also be placed on proof techniques, functional programming paradigms, and basic theory of programming languages to provide a holistic view of the subject.
+    - **Comprehensive Rust Programming: From Basics to Production**: A thorough introduction to Rust programming, progressing from fundamental concepts to building a professional-grade web application. The goal is to gain a solid understanding of Rust and its applications in modern software development.
 - As a grader, I also grade and provide feedback for [Professor Thornton's](https://www.linkedin.com/in/alex-thornton-1659603) computer science courses.
 
 <!--
