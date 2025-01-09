@@ -1,12 +1,12 @@
-## HELLO HUMANS!
-- I am currently studying to be a full-time software engineer at University of California, Irvine. It's nice to meet you!
-- I have had a passion for computer science since I started middle school. Ever since then my interest and passion has continued to grow.
-- I have a strong interest in programming language theory and compilers.
-- I am actively searching for a summer 2025 internship.
+## Hello!
+My name is Axel Sorenson. 
 
-### My Projects:
-- [axelcool1234/inscryption-card-printer](https://github.com/axelcool1234/inscryption-card-printer) - Web app for dynamically generating card designs
-- [joeyabsi22/Gmail-Wrapped](https://github.com/joeyabsi22/Gmail-Wrapped) - A 12 hour hackathon project designed to find the most common senders in your Gmail inbox. I worked on API handling. The project won 3rd place at UCI's ZotHacks!
+### Who Am I?
+- I'm an undergraduate UC Irvine compuer science student.
+- I'm a lab assistant in the Secure Systems and Software Laboratory at UC Irvine.
+- I'm a grader for UC Irvine's ICS 33 course.
+- I'm a learning assistant for UC Irvine's ICS 53 course.
+- I'm practicing to become an LLVM contributor.
 
 ### Contact:
 The best way to contact me professionally is through my professional email. If you want to contact me casually, it might be best to talk to me on Discord. I'd love to talk to you!
@@ -15,15 +15,13 @@ The best way to contact me professionally is through my professional email. If y
 - Discord - Axelsoft
 
 ### I'm currently working on:
-- Continuing my junior year of UCI's computer science program.
-    - **Introduction to Artificial Intelligence**: Different means of representing knowledge and uses of representations in heuristic problem solving. Representations considered include predicate logic, semantic nets, procedural representations, natural language grammars, and search trees.
-    - **Machine Learning and Data-Mining**: Introduction to principles of machine learning and data-mining applied to real-world datasets. Typical applications include spam filtering, object recognition, and credit scoring.
-    - **Computational Geometry and Geometric Modeling**: Algorithms and data structures for computational geometry and geometric modeling, with applications to game and graphics programming. Topics: convex hulls, Voronoi diagrams, algorithms for triangulation, motion planning, and data structures for geometric searching and modeling of 2D and 3D objects.
-    - **Algorithmic Game Theory**: Cover topics at the interface of theoretical computer science and economics: zero sum games and LP duality, mechanism design, voting and impossibility theorems, "price of anarchy". Algorithms and complexity theory for learning and computing Nash equilibria.
-    - **Compiler Research**: I will be working with [Professor Franz](https://www.michaelfranz.com) on his compiler research. 
+- Finishing up my undergraduate program at UCI (This is my last quarter!) 
+    - **COMPSCI 143A. Principles of Operating Systems.**: Principles and concepts of process and resource management, especially as seen in operating systems. Processes, memory management, protection, scheduling, file systems, and I/O systems are covered. Concepts illustrated in the context of several well-known systems.
+    - **COMPSCI 145. Embedded Software.**: Principles of embedded computing systems: embedded systems architecture, hardware/software components, system software and interfacing, real-time operating systems, hardware/software co-development, and communication issues. Examples of embedded computing in real-world application domains. Simple programming using an embedded systems development environment.
+    - **COMPSCI 146. Programming in Multitasking Operating Systems.**: User- and systems-level programming of modern Internet-connected, multi-user, multitasking operating systems. Shells, scripting, filters, pipelines, programmability, extensibility, concurrency, inter-process communication. Concrete examples of a modern operating system (such as, but not necessarily, Unix programmed in C) are used.
+    - **COMPSCI 166. Quantum Computation and Information.**: Basic models for quantum computation and their foundations in quantum mechanics. Quantum complexity classes and quantum algorithms, including algorithms for factoring and quantum simulation. Introduction to quantum information theory and quantum entanglement.
+    - **COMPSCI 241. Advanced Compiler Construction.**: Advanced study of programming language implementation techniques: optimizations such as common sub-expression elimination, register allocation, and instruction scheduling. Implementation of language features such as type-directed dispatch, garbage collection, dynamic linking, and just-in-time code generation. I've done most of this course in COMPSCI 142B, so I'm auditing it for the additional content.
 - **Type Theory and Programming Languages**: Exploring various type systems, their properties, and their implementation in programming languages. Emphasis will also be placed on proof techniques, functional programming paradigms, and basic theory of programming languages to provide a holistic view of the subject.
-- **Comprehensive Rust Programming: From Basics to Production**: A thorough introduction to Rust programming, progressing from fundamental concepts to building a professional-grade web application. The goal is to gain a solid understanding of Rust and its applications in modern software development.
-- As a grader, I also grade and provide feedback for [Professor Thornton's](https://www.linkedin.com/in/alex-thornton-1659603) computer science courses.
 
 <!--
 **axelcool1234/axelcool1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
