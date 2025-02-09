@@ -6,7 +6,7 @@ My name is Axel Sorenson. Here are my [dotfiles](https://github.com/axelcool1234
 - I'm a lab assistant at the Secure Systems and Software Laboratory at UC Irvine.
 - I'm a grader for UC Irvine's ICS 33 course.
 - I'm a learning assistant for UC Irvine's ICS 53 course.
-- I'm practicing to become an LLVM contributor.
+- I'm practicing to become an active LLVM contributor.
 
 ### Contact:
 The best way to contact me professionally is through my professional email. If you want to contact me casually, it might be best to talk to me on Discord. I'd love to talk to you!
