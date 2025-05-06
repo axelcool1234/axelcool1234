@@ -19,7 +19,7 @@ The best way to contact me professionally is through my professional email. If y
 As Fall approaches and my official start of my PhD journey begins, I've been keeping myself busy with subjects I feel I missed out on at UC Irvine.
 - Cornell's [CS 3110 course](https://www.cs.cornell.edu/courses/cs3110/) - Data Structures and Functional Programming. I am going through the course's online textbook: [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/)
 - Cornell's [CS 4/5110 course](https://www.cs.cornell.edu/courses/cs4110/2024sp/) - Programming Languages and Logics. The course covers the theory and implementation of programming languages. I am going through the course's online material. Additionally, I will supplement it with reading [Types and Programming Languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091)
-- Cornell's [CS 4160 course](https://www.youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs). I am going through the course's online videos. Additionally, I will supplement it with reading [Software Foundations](https://softwarefoundations.cis.upenn.edu/), which is what the course is based on.
+- Cornell's [CS 4160 course](https://www.youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs) - Formal Verification. I am going through the course's online videos. Additionally, I will supplement it with reading [Software Foundations](https://softwarefoundations.cis.upenn.edu/), which is what the course is based on.
 - [Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) lectures by Bartosz Milewski.
 
 This is a pretty ambitious list, but I hope to at least cover half of this by Fall (although lets hope I cover all of it).
